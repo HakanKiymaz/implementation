@@ -3,3 +3,4 @@ commit 2
 commit 3
 commit 4 feature branch
 cherry pick commit 1
+cherry pick commit 2

@@ -2,3 +2,6 @@ File to test cherry pick.
 commit 2
 commit 3
 commit 4 feature branch
+cherry pick commit 1
+cherry pick commit 2
+cherry pick commit 3
